@@ -1,1 +1,1 @@
-# Deploy-a-React-Application-on-AWS-Using-Terraform
+# Full-Stack-Web-Application-Deployment-on-AWS-with-Terraform-IaC
