@@ -1,0 +1,5 @@
+# Copy this file to terraform.tfvars and fill in your actual values
+# DO NOT commit terraform.tfvars to Git!
+
+key_name    = "your-key-name"
+db_password = "YourSecurePassword123"
